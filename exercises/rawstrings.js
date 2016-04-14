@@ -14,7 +14,7 @@ var printLetter1 = function () {
 //console.log("This is NOT working")
  // 'print the fourth letter in this string'[3];
 
-  return 'print the fourth letter in this string'[2];
+  return 'print the fourth letter in this string'[3];
 };
 
 /*
